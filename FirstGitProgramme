@@ -1,0 +1,10 @@
+Class FirstGitProgramme{
+
+public void new1(){
+System.out.println("Learning the basics")
+}
+public static void main(String args[]){
+FirstGitProgramme n = new FirstGitProgramme();
+n.new1;
+}
+}
